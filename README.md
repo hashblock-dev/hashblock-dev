@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, blockchain and Web3 ecosystem**
 
-- 📝 I regularly write articles on [https://fromdevtoprod.me](https://fromdevtoprod.me)
+- 📝 I regularly write articles on [https://hashblock.dev](https://hashblock.dev)
 
 - 💬 Ask me about **Javascript, Typescript, React or Browser Extensions**
 
