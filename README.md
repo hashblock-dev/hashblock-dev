@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript, Typescript, React or Browser Extensions**
 
-- 📫 How to reach me **contact@fromdevtoprod.me**
+- 📫 How to reach me **cedric@hashblock.dev**
 
 - 📄 Know about my experiences [https://linkedin.com/in/cedric-ribalta](https://linkedin.com/in/cedric-ribalta)
 
